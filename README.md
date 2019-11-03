@@ -2,7 +2,10 @@
 Repository contains images of forms and their respective annotations in PASCAL VOC format (XML Files).
 
 ## Contributing
-All images are stored in [data/images](https://github.com/MrPanda1/FormDataset/blob/master/data/images) and all annotations are saves in [data/annotations](https://github.com/MrPanda1/FormDataset/blob/master/data/annotations). Please look at [CONTRIBUTORS](https://github.com/MrPanda1/FormDataset/blob/master/CONTRIBUTORS.md) to see who is responsible for what images. Make sure to save all images with the numbers assigned to you and to save all images and annotations in the correct folders. All annotations should be in XML PASCAL VOC format.
+All images are stored in [data/images](https://github.com/MrPanda1/FormDataset/blob/master/data/images) and all annotations are saves in [data/annotations](https://github.com/MrPanda1/FormDataset/blob/master/data/annotations). Please look at [CONTRIBUTORS](https://github.com/MrPanda1/FormDataset/blob/master/CONTRIBUTORS.md) to see who is responsible for what images. 
+* Make sure to save all images with the numbers assigned to you and to save all images and annotations in the correct folders. 
+* All annotations should be in XML PASCAL VOC format.
+* All images should be in .png format
 
 ## Installation
 
