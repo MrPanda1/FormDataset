@@ -16,5 +16,3 @@ cavity
 textline
 checkbox
 textbox
-textboxc
-textlin3e
