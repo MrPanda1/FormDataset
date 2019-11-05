@@ -1,0 +1,1 @@
+<annotations><filename>255.png</filename><folder>images</folder><size><width>750</width><height>970</height><depth>3</depth></size><object><name /><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>66.00037500000002</xmin><ymin>779.00021</ymin><xmax>376.000125</xmax><ymax>822.00031</ymax></bndbox></object></annotations>
