@@ -1,1 +1,26 @@
-<annotations><filename>255.png</filename><folder>images</folder><size><width>750</width><height>970</height><depth>3</depth></size><object><name /><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>66.00037500000002</xmin><ymin>779.00021</ymin><xmax>376.000125</xmax><ymax>822.00031</ymax></bndbox></object></annotations>
+<annotation>
+	<folder>images</folder>
+	<filename>255.png</filename>
+	<path>D:\FormDataset\data\images\255.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>970</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>textline</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>785</ymin>
+			<xmax>379</xmax>
+			<ymax>833</ymax>
+		</bndbox>
+	</object>
+</annotation>
