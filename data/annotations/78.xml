@@ -1,122 +1,122 @@
 <annotation>
 	<folder>images</folder>
-	<filename>1.PNG</filename>
-	<path>C:\Users\delaney\Desktop\capstone\images\1.PNG</path>
+	<filename>78.PNG</filename>
+	<path>C:\Users\delaney\Desktop\capstone\images\78.PNG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1053</width>
-		<height>1076</height>
+		<width>1109</width>
+		<height>1178</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>textbox</name>
+		<name>textline</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>99</xmin>
-			<ymin>462</ymin>
-			<xmax>515</xmax>
-			<ymax>531</ymax>
+			<xmin>733</xmin>
+			<ymin>721</ymin>
+			<xmax>1046</xmax>
+			<ymax>771</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>textbox</name>
+		<name>textline</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>524</xmin>
-			<ymin>468</ymin>
-			<xmax>949</xmax>
-			<ymax>531</ymax>
+			<xmin>130</xmin>
+			<ymin>770</ymin>
+			<xmax>431</xmax>
+			<ymax>813</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>textbox</name>
+		<name>textline</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>96</xmin>
-			<ymin>600</ymin>
-			<xmax>954</xmax>
-			<ymax>668</ymax>
+			<xmin>294</xmin>
+			<ymin>818</ymin>
+			<xmax>696</xmax>
+			<ymax>857</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>textbox</name>
+		<name>textline</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>96</xmin>
-			<ymin>719</ymin>
-			<xmax>953</xmax>
-			<ymax>787</ymax>
+			<xmin>336</xmin>
+			<ymin>863</ymin>
+			<xmax>696</xmax>
+			<ymax>904</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>textbox</name>
+		<name>textline</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>93</xmin>
-			<ymin>789</ymin>
-			<xmax>955</xmax>
-			<ymax>855</ymax>
+			<xmin>375</xmin>
+			<ymin>1039</ymin>
+			<xmax>684</xmax>
+			<ymax>1092</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>textbox</name>
+		<name>checkbox</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>94</xmin>
-			<ymin>857</ymin>
-			<xmax>603</xmax>
-			<ymax>925</ymax>
+			<xmin>158</xmin>
+			<ymin>376</ymin>
+			<xmax>213</xmax>
+			<ymax>428</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>textbox</name>
+		<name>checkbox</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>605</xmin>
-			<ymin>856</ymin>
-			<xmax>853</xmax>
-			<ymax>922</ymax>
+			<xmin>391</xmin>
+			<ymin>375</ymin>
+			<xmax>453</xmax>
+			<ymax>426</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>textbox</name>
+		<name>checkbox</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>855</xmin>
-			<ymin>858</ymin>
-			<xmax>955</xmax>
-			<ymax>918</ymax>
+			<xmin>610</xmin>
+			<ymin>373</ymin>
+			<xmax>676</xmax>
+			<ymax>433</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>textbox</name>
+		<name>checkbox</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>97</xmin>
-			<ymin>988</ymin>
-			<xmax>951</xmax>
-			<ymax>1063</ymax>
+			<xmin>827</xmin>
+			<ymin>373</ymin>
+			<xmax>887</xmax>
+			<ymax>430</ymax>
 		</bndbox>
 	</object>
 </annotation>
