@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>192.png</filename>
+	<path>D:\Documents\ASU\Classes\CSE 485\FormDataset\data\images\192.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>966</width>
+		<height>447</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>textline</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>189</ymin>
+			<xmax>535</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>textline</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>287</ymin>
+			<xmax>492</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>

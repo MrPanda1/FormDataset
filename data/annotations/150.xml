@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>150.png</filename>
+	<path>D:\Documents\ASU\Classes\CSE 485\FormDataset\data\images\150.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>547</width>
+		<height>282</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>checkbox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>84</ymin>
+			<xmax>50</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>checkbox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>158</ymin>
+			<xmax>50</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>
