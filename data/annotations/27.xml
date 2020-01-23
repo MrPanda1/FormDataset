@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>27.png</filename>
-	<path>C:\Users\delaney\Desktop\capstone\images\27.png</path>
+	<path>D:\Documents\ASU\Classes\CSE 485\FormDataset\data\images\27.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -165,6 +165,54 @@
 			<ymin>745</ymin>
 			<xmax>185</xmax>
 			<ymax>776</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>checkbox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>147</ymin>
+			<xmax>49</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>checkbox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>147</ymin>
+			<xmax>138</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>checkbox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>146</ymin>
+			<xmax>228</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>checkbox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>304</xmin>
+			<ymin>146</ymin>
+			<xmax>320</xmax>
+			<ymax>161</ymax>
 		</bndbox>
 	</object>
 </annotation>
