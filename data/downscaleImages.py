@@ -13,6 +13,7 @@ maxDimension = 416
 
 # Get every image in the directory
 for file in os.listdir(os.getcwd()):
+    print(file)
     filename = os.fsdecode(file)
 
     im = Image.open(filename)
