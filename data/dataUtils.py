@@ -63,6 +63,15 @@ def get_annotations(dir):
 def bndbox_size(coords):
     size = np.array([dim[1]-dim[0] for dim in coords])
     return size
+    
+def downscale_img(img, max_dim):
+    width, height = img.size
+    
+    ratio = max_dim/max(width, height)
+    new_size = (int(round(width*ratio)), int(round(height*ratio))) 
+    img = img.resize(new_size)
+    
+    return img
 
 """
 Description: Calculates the ratio of bounding box area to image area.
@@ -70,7 +79,7 @@ Description: Calculates the ratio of bounding box area to image area.
 Input: Bounding box coordinates and image size
 Output: Ratio between bounding box area and image area
 """
-def bndbox_to_img_ratio(bndbox_coords, img_size):
+def bbi_ratio(bndbox_coords, img_size):
     bndbox_area = np.prod(bndbox_size(bndbox_coords))
     img_area = img_size[0] * img_size[1]
     
@@ -90,8 +99,7 @@ def split_data_and_labels(raw_data):
     
     for annotation in raw_data:
         for bndbox in annotation["bndboxes"]:
-            ratio = bndbox_to_img_ratio(bndbox["coords"], annotation["size"])
-            data.append(ratio)
+            data.append(bndbox)
             labels.append(bndbox["label"])
     
     return np.array(data), np.array(labels)
